@@ -1,13 +1,6 @@
-9cfa9ab updated a line audit.txt second time
-b8d9564 updated a line audit.txt first time
-3bee470 forth commit done
-4db8206 third commit done
-953a68c second commit done
-583e059 first commit done
-a4a06f7 conflict succfully resolved
-53ab604 branching b1 to main
-4a1e8fe commiting from bracnch 2
-c35913c commiting from b1
-c216e25 b1 commit
-43af88d second commit
-2e89d6a first commit
+first commit
+second commit
+third commit
+forth commit
+one more added to audit.txt
+again one more added to audit.txt
