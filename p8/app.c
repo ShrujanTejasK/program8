@@ -1,7 +1,1 @@
-#include<stdio.h>
-
-void main()
-{
-	int a=2,b=3;
-	printf("SUM of a and b is= %d",a+b);
-}
+print('Welcome to app v1.1-added enhanced features')
